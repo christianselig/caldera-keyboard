@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_5, _4, _3, _2, ",HOLE_M2_TH,5,,
+B1,Panasonic_EVQPUL_EVQPUC,1,Panasonic_EVQPUL_EVQPUC,
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D4, D5, D6, D7, D8, D9",ComboDiode,30,,
+JST1,JST_PH_S2B-PH-K_02x2.00mm_Angled,1,,
+MCU1,nice_nano,1,nice_nano,
+"S1, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S2, S20, S21, S22, S23, S24, S25, S26, S27, S28, S29, S3, S30, S4, S5, S6, S7, S8, S9",PG1350,30,,
+T1,SPDT_C128955,1,,
