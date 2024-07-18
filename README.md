@@ -18,6 +18,8 @@ A full overview of the build process for this keyboard can be found on YouTube h
 
 If you're interested in building a Caldera keyboard, you can use the left and right `gerber.zip` files in this directory and upload those to a PCB manufacturer like JLCPCB or PCBWay (neither are sponsors) to obtain the PCBs. Then it's just a matter of acquiring the other keyboard parts from a site like Typeractive, and following the steps in the video above (soldering, assembling, flashing firmware).
 
+Otherwise hopefully you can use some of these files and instructions as a jumping off point for building your own cool custom keyboard!
+
 # Ergogen config.yaml overview
 
 The Ergogen `config.yaml` file used for this keyboard is expanded upon versus the overview in the YouTube video above, and while there's comments throughout the file to help, I wanted to give a somewhat more substantial overview of how the file works.
